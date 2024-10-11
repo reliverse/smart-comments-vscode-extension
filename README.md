@@ -1,2 +1,13 @@
-# template-vscode-extension
-🌶️ Do you need a cool starter for your next awesome VSCode extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 This extension will come with extensive documentation to help beginners get started and work easily.
+# Smart Comments
+
+## How to build and install
+
+```bash
+pnpm install
+pnpm build
+code --install-extension smart-comments-0.0.1.vsix
+```
+
+## License
+
+MIT, created by [@blefnk](https://github.com/blefnk) Nazar Kornienko
